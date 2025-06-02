@@ -1,0 +1,3 @@
+Artificial intelligence (AI) is transforming various industries by automating complex processes. 
+Machine learning, a subset of AI, enables computers to learn from data without explicit programming. 
+Deep learning, based on neural networks, further enhances AI capabilities in image recognition and natural language processing.
