@@ -1,0 +1,3 @@
+# Machine Learning
+
+Supervised and unsupervised learning projects using Scikit-learn. Covers model training, train-test splitting, hyperparameter tuning, and evaluation metrics. Includes Matplotlib/Plotly visualizations to interpret model behavior and results.
