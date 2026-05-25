@@ -1,0 +1,3 @@
+# NimRL
+
+Reinforcement learning implementation applied to the game of Nim. An agent learns optimal strategy through self-play, demonstrating core RL concepts: state representation, reward signals, and policy learning without explicit programming of rules.
