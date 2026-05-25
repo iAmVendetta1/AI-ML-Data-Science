@@ -1,1 +1,3 @@
-The PythonCode repository consists of notebooks that utilize Python and its libraries such as NumPy, Pandas, MatPlotLib(Plotly), and Scikit-Learn to perform data analysis, data science, and machine learning. 
+# Data-Science
+
+Exploratory data analysis (EDA), feature engineering, and statistical analysis using Pandas, NumPy, and SciPy. Focuses on understanding data before modeling — cleaning, visualizing distributions, identifying patterns.
