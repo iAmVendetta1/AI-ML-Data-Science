@@ -1,3 +1,3 @@
 # IntroductoryAI
 
-This repository contains basic AI principles utilized to build a foundational understanding of some basic AI principles and methods. 
+Foundational AI concepts including search algorithms, problem-solving agents, and classical AI techniques. Starting point for understanding how intelligent systems reason and make decisions.
